@@ -6,4 +6,3 @@ public class Hello {
 		System.out.primtln("Hello world!");
 	}
 }
-
